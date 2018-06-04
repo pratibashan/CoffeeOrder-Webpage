@@ -1,0 +1,24 @@
+
+body {
+    background-color:#1f0b05ed;
+}
+.navbar {
+    background-color: #1f0b05ed;
+}
+.list-group {
+    margin-top: 20px;
+}
+.jumbotron {
+    background-color: #b7945ee3;
+}
+
+.btn-danger{
+
+    background-color:713636;
+    border-color:271515;
+
+}
+.btn-danger:hover {
+    background-color: #400a04;
+    border-color:#400a04;
+}
